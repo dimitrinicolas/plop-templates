@@ -1,0 +1,29 @@
+{
+  "name": "@dimitrinicolas/plop-templates",
+  "version": "1.0.0",
+  "description": "My personnal root projects plop templates",
+  "license": "MIT",
+  "main": "plopfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitrinicolas/plop-templates.git"
+  },
+  "author": {
+    "name": "Dimitri NICOLAS",
+    "email": "dimitri@fivecorp.fr"
+  },
+  "keywords": [
+    "plop",
+    "templates"
+  ],
+  "bugs": {
+    "url": "https://github.com/dimitrinicolas/plop-templates/issues"
+  },
+  "homepage": "https://github.com/dimitrinicolas/plop-templates",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "dependencies": {
+    "api-npm": "^1.0.0"
+  }
+}
